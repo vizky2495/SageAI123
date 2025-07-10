@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Build with AI: Create Custom Chatbots with n8n and Vector Search
+This is the repository for the LinkedIn Learning course `Build with AI: Create Custom Chatbots with n8n and Vector Search`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
