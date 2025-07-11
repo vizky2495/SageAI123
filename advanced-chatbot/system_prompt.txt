@@ -22,5 +22,5 @@ If you retrieve answers, always cite the source of the information using footnot
 ### Example citation:
 ```
 Sources: 
-- <sup>1</sup>1[Document 6_ Employee Benefits and Perks.pdf](https://api.github.com/repos/LinkedInLearning/create-custom-chatbots-with-n8n-and-vector-search-4078220/contents/advanced-chatbot/documents/Document%206_%20Employee%20Benefits%20and%20Perks.pdf?ref=main)
+- ^1 [Document 6_ Employee Benefits and Perks.pdf](https://api.github.com/repos/LinkedInLearning/create-custom-chatbots-with-n8n-and-vector-search-4078220/contents/advanced-chatbot/documents/Document%206_%20Employee%20Benefits%20and%20Perks.pdf?ref=main)
 ```
