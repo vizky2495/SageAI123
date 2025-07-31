@@ -5,44 +5,19 @@ This is the repository for the LinkedIn Learning course `Build with AI: Create C
 
 ## Course Description
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
-
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
-
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
-
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+In this practical, scenario-driven course, AI expert Tobias Zwingmann shows you how to build an AI-powered customer support chatbot using n8n and a Large Language Model (LLM) of your choice. Step by step, design a bot that starts small—handling common FAQs with a well-crafted prompt—then level it up by connecting it to Pinecone, enabling deep searches across your documentation, policies, or product data. Learn the tools you need to know through the hands-on experience of solving a real problem. When you complete this course, you will have mastered the core concepts of building custom AI chatbots with n8n and gained insight into moving toward production-ready deployment. Whether you’re in ops, support, or product, this course gives you an edge in experimenting quickly with practical, high-impact AI workflows.
 
 ## Instructor
 
-Instructor name
+Tobias Zwingmann
 
-Instructor description
+AI expert, Author, Keynote Speaker
 
-                            
-
-Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/tobias-zwingmann?u=104).
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/build-with-ai-create-custom-chatbots-with-n8n
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D560DAQHh202gUT8nOQ/learning-public-crop_675_1200/B56ZhcZBvcG4Ac-/0/1753896722337?e=2147483647&v=beta&t=xIHBhgJeRo9hzwG8KnBpR9gl6tcv0w41ZbOtMGZiF5E
 
